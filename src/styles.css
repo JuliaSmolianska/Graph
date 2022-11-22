@@ -1,0 +1,27 @@
+body {
+  background: url(https://lumiere-a.akamaihd.net/v1/images/image_a89e70e8.jpeg?region=0%2C0%2C540%2C810);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  opacity: 0.85;
+  font-family: sans-serif;
+}
+
+button {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+}
+
+.film {
+  background-color: black;
+  color: white;
+  margin: auto;
+  padding: 5px;
+  border: 1px solid white;
+  border-radius: 7px;
+}
